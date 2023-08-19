@@ -1,1 +1,2 @@
 # Hoc-Github
+git init
